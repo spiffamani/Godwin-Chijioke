@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class Example224 {
+public static void main( String[] args ) {
+Scanner input = new Scanner(System.in);
+System.out.print( "Enter a number");
+int number = input.nextInt();
+int number1 = (number / 10000) % 10 ;
+int number2 = (number / 1000) % 10 ;
+
+int number3 = ( number / 100) % 10 ;
+
+int number4 = (number / 10) % 10 ;
+
+int number5 = number;
+System.out.printf("%d%n " , number1);
+System.out.printf("%d%n " , number2);
+System.out.printf("%d%n " , number3);
+System.out.printf("%d%n " , number4);
+System.out.printf("%d%n " , number5);
+}
+}
