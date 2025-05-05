@@ -1,0 +1,127 @@
+continue
+
+
+
+
+/* public static integer isprime(int userinput) {
+int result;
+for(int i = 1 ; i <= userinput; i++)
+if (userinput % 2 == 0)
+result = useriput * i
+return result; 
+
+}
+}
+
+ublic static boolean ispalindrome(int usernumber){
+int number1 = 0;
+int number2 = 0;
+int number3 = 0;
+int number4 = 0;
+int number5 = 0;
+
+number1 =  userinput / 10000;
+userinput - number1 * 10000; 
+number2 = userinput / 1000 ;
+userinput - number2 * 1000;
+number3 = userinput / 100;
+userinput - number3 / 100;
+number4 = userinput / 10;
+userinput - number4 / 10
+number5 = userinput;*/
+
+/* if(number1 == number5){
+return true;
+}
+else{
+return false;
+if(number2 == number4){
+return true;
+}
+else{
+return false;
+}
+
+if(number3 == number3){
+return true;
+}
+else{
+return false
+}
+
+public static Factor(int usernumber){
+int counter;
+for(int count = 1; count <= usernumber; count++){
+if(userinput % 2 == 0)
+++counter;
+}
+return counter;
+}
+
+
+
+
+
+public static  factorial(int userinput)
+int  result = 0;
+
+for(int i = 1; i <= userinput;)
+result += userinput * i;
+return result; 
+
+
+
+
+
+
+public static Square(int number){
+int result;
+result = Math.sqr(userinput)
+return result; 
+
+
+public static  factorial(int userinput)
+int  result = 0;  */
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+public static  Factorials(int number1 ){
+
+if (number1 < 0 ){
+}
+int result = 1;
+for(int i = 1; i <=  number1; i++){
+number1 = number1 * i;
+}
+return result 
+}
+}
+
+
+
+
+
+}*/

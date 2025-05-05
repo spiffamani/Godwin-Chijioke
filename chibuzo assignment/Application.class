@@ -1,0 +1,39 @@
+import java.util.Scanner;
+public class InterestRate {
+public static void main(Sring[] args){
+Scanner input = new Scanner(System.in);
+
+double principal;
+double rate;
+double years;
+double sumrate1;
+double sumrate2;
+double monthly;
+
+
+
+System.out.print(" Enter principal");
+ principal = input.nextDouble();
+
+System.out.print("Enter annual rate")
+rate = input.nextDouble();
+
+System.out.print("Enter annual rate")
+years = input.nextDouble();
+
+sumrate1 = Math.pow(rate ,  years) + 1;
+sumrate2 = sumrate1 - 1 ;
+
+principal = principal * rate;
+
+monthly = principal * sumrate1 /  sumrate2;
+
+System.out.print("monthly payment is"  +    "$"  + monthly);
+
+}
+}
+
+
+
+
+

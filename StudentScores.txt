@@ -1,0 +1,40 @@
+import java.util.Scanner;
+public class StudentScores{
+public static void main(String[] args){
+Scanner input = new Scanner(System.in);
+
+// prompt user to Enter number
+
+int print = 0 
+
+Student1 = 1 ;
+student2 = 0;
+string studentA = input.next();
+string studentB = input.next();
+
+
+System.out.print( " Enter number of student ");
+string userinput = (int)(Math.random()*100);
+
+for( print = 0 ; print <= userinput ; print++)
+if (userinput % student1  ) 
+System.out.print( "studentA" +  Highest score );
+
+else{
+if (userinput % student1  ) 
+System.out.print( "studentB" +  Highest score );
+}
+if (userinput % student2  ) 
+System.out.print( "studentB" +  Highest score );
+
+
+else{
+if (userinput % student1  ) 
+System.out.print( "studentA" +  Highest score )
+
+
+}
+
+
+}
+}
