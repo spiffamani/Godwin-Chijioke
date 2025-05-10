@@ -1,0 +1,12 @@
+We’ll answer this question later in the book.
+For now, use the exponentiation operator ** with large and very large exponents to produce some huge integers and assign those to the variable number to see if Python accepts
+them. Did you find any integer value that Python won’t accept? 
+2.14 (Target Heart-Rate Calculator) While exercising, you can use
+
+
+result = 0
+number = int(input('enter number')
+
+number1 = int(input('enter number')
+
+result = number ** number 
